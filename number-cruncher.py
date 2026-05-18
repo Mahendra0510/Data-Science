@@ -120,4 +120,4 @@ topper_index = np.argmax(scores)
 
 print("\n===== TOPPER DETAILS =====")
 print(f"Topper Score : {topper_score}")
-print(f"Student Index: {topper_index}")
+print(f"Student Index: {topper_index}") 
